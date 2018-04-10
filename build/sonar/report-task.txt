@@ -1,0 +1,5 @@
+projectKey=com.maths:APIOperationss
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/com.maths:APIOperationss
+ceTaskId=AWKwWYq3KQfX70uL8hgD
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWKwWYq3KQfX70uL8hgD

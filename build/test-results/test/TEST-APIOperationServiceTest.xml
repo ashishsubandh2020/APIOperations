@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIOperationServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-04-10T16:16:57" hostname="DESKTOP-5AR305B" time="0.011">
+  <properties/>
+  <testcase name="testFibonnaciSeries" classname="APIOperationServiceTest" time="0.005"/>
+  <testcase name="testIsoscelesTriangle" classname="APIOperationServiceTest" time="0.0"/>
+  <testcase name="testScaleneTriangle" classname="APIOperationServiceTest" time="0.0"/>
+  <testcase name="testRevereseString" classname="APIOperationServiceTest" time="0.0"/>
+  <testcase name="testEquilateralTriangle" classname="APIOperationServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
